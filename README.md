@@ -8,6 +8,7 @@ Proyek ini berfokus pada **preprocessing dataset penyakit jantung** untuk memast
 .
 ├── Tugas Kelompok.pdf                           # Dokumentasi tugas
 ├── Kelompok_2_Tugas01_Data_Preparation.pdf      # Laporan tugas
+├── Kelompok_2_Tugas01_Data_Preparation_PPT.pdf  # Presentasi Tugas
 ├── dataset                                      # Folder dataset
 │   ├── processed                                # Dataset setelah preprocessing
 │   │   └── df_ready.csv                         # Dataset final yang siap untuk modeling
