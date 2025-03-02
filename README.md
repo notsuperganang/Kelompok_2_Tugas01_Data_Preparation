@@ -27,6 +27,13 @@ Dataset ini telah melalui serangkaian **tahapan preprocessing yang ketat**, di a
 
 Hasil preprocessing ini telah **menghasilkan dataset yang lebih bersih, terstruktur, dan siap digunakan dalam pemodelan machine learning.** 🚀🔥
 
+## 📚 **Members Of The Group**
+- Ganang Setyo Hadi         (2208107010052)
+- Nurul Uzratun Nashriyyah  (2208107010030)
+- Alvia Zuhra               (2208107010003)
+- Al-Mahfuzh Fadhlur Rohman (2208107010016)
+- Azimah Al-Huda            (2208107010069)
+
 ## 🏆 **Next Step: Model Development**
 Dengan dataset yang telah diproses dengan optimal, langkah berikutnya adalah **eksperimen dengan berbagai algoritma machine learning** untuk menemukan model terbaik dalam **memprediksi penyakit jantung**. 💡
 
