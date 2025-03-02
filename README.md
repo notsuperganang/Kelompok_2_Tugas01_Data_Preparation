@@ -6,14 +6,15 @@ Proyek ini berfokus pada **preprocessing dataset penyakit jantung** untuk memast
 ## 📂 **Project Structure**
 ```
 .
-├── Tugas Kelompok.pdf      # Dokumentasi tugas
-├── dataset                 # Folder dataset
-│   ├── processed           # Dataset setelah preprocessing
-│   │   └── df_ready.csv    # Dataset final yang siap untuk modeling
-│   └── raw                 # Dataset asli
-│       └── heart.csv       # Data mentah sebelum preprocessing
-├── heart.ipynb             # Notebook dengan proses preprocessing
-└── README.md               # Dokumentasi proyek
+├── Tugas Kelompok.pdf                           # Dokumentasi tugas
+├── Kelompok_2_Tugas01_Data_Preparation.pdf      # Laporan tugas
+├── dataset                                      # Folder dataset
+│   ├── processed                                # Dataset setelah preprocessing
+│   │   └── df_ready.csv                         # Dataset final yang siap untuk modeling
+│   └── raw                                      # Dataset asli
+│       └── heart.csv                            # Data mentah sebelum preprocessing
+├── heart.ipynb                                  # Notebook dengan proses preprocessing
+└── README.md                                    # Dokumentasi proyek
 ```
 
 ## 🔎 **Preprocessing Steps**
